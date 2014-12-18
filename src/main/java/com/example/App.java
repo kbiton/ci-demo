@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hey Guys, Coffee? After L ? Of course...!" );
+        System.out.println( "Hey Guys,Wake Up !!! In eed you!~!!" );
     }
 }
